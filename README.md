@@ -32,5 +32,9 @@ A experiência permitiu exercitar a comunicação adaptada para diferentes públ
 Material	Acesso
 
 🤖 Mini workshop de IA (manhã)	-  https://alicefilgueiras.github.io/mundo-senai-26/ 
+
+
 🏠 Sistema embarcado: Maquete IoT (tarde) -  file:///C:/Users/EPN2NL221/AppData/Local/Temp/a2fc8935-b696-4a37-853a-54715a2025f9_maquete-iot.zip.5f9/maquete-iot/web/index.html
+
+
 🎨 Meu portfólio	Abrir o portfólio  -  https://alicefilgueiras.github.io/portifolio/
