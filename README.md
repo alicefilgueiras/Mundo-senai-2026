@@ -27,20 +27,10 @@ Apresentamos para a comunidade escolar, colegas de outros cursos, docentes e vis
 A experiência permitiu exercitar a comunicação adaptada para diferentes públicos (explicando conceitos técnicos sem o uso de siglas complexas) e a demonstração prática de hardware e software integrados.
 
 
-🔗 Links e Arquivos
+🔗 Links
+
 Material	Acesso
-🤖 Mini workshop de IA (manhã)	Abrir a página do workshop
-🏠 Sistema embarcado: Maquete IoT (tarde)	Baixar o projeto completo (.zip)
-🎨 Meu portfólio	Abrir o portfólio
-🏠 Sobre a Maquete IoT
 
-Maquete de uma casa, um sobrado e uma garagem que representa um sistema embarcado IoT. Um ESP32 controla iluminação, ventilação, varal automático, alarme de incêndio e garagem, hospeda uma página web de controle e aceita comandos de voz pela Alexa.
-
-O arquivo maquete-iot.zip contém:
-
-web/: a página de controle (arquivo HTML único, com modo de simulação que funciona sem a placa);
-firmware/: os códigos do ESP32 para Arduino IDE, com e sem Alexa;
-HARDWARE.md: a descrição completa do hardware, pinos e ligações;
-README.md: instruções de gravação, regras de automação e API.
-
-Para ver a página funcionando sem a maquete, extraia o zip e abra web/index.html no navegador.
+🤖 Mini workshop de IA (manhã)	-  https://alicefilgueiras.github.io/mundo-senai-26/ 
+🏠 Sistema embarcado: Maquete IoT (tarde) -  file:///C:/Users/EPN2NL221/AppData/Local/Temp/a2fc8935-b696-4a37-853a-54715a2025f9_maquete-iot.zip.5f9/maquete-iot/web/index.html
+🎨 Meu portfólio	Abrir o portfólio  -  https://alicefilgueiras.github.io/portifolio/
