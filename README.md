@@ -1,4 +1,7 @@
-# mundo-senai-2026
+# Mundo-senai-2026
+
+<img width="1440" height="1440" alt="1000290415" src="https://github.com/user-attachments/assets/2921e2da-be74-4016-ba6b-ec688cb0b911" />
+
 
 # Mundo SENAI 2026
 
